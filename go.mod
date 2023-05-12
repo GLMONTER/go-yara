@@ -1,3 +1,2 @@
-module github.com/GLMONTER/go-yara/v4
-
+module github.com/GLMONTER/go-yara
 go 1.15
